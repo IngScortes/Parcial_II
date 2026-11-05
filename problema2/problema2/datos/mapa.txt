@@ -1,0 +1,6 @@
+# mapa de ejemplo (símbolos separados por espacios)
+A A . B B
+A . . B .
+. . C . .
+C C C . B
+C . . B B

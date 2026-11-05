@@ -1,0 +1,7 @@
+# casos inválidos y límite
+A,B,8,5
+B,C,x,2
+C,D
+A,B,9,7
+D,D,1,1
+B,A,2,2
