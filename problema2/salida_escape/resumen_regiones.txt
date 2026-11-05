@@ -1,0 +1,3 @@
+Número de regiones: 2
+Mayor área (4): región 2 (<)
+Mayor perímetro (10): región 2 (<)

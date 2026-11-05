@@ -1,0 +1,26 @@
+=== N0 → N10 ===
+Paso 0: {N0}
+Paso 1: {N0, P0, Q0}
+Paso 2: {N0, N1, P0, Q0}
+Paso 3: {N0, N1, P0, P1, Q0, Q1}
+Paso 4: {N0, N1, N2, P0, P1, Q0, Q1}
+Paso 5: {N0, N1, N2, P0, P1, P2, Q0, Q1, Q2}
+Paso 6: {N0, N1, N2, N3, P0, P1, P2, Q0, Q1, Q2}
+Paso 7: {N0, N1, N2, N3, P0, P1, P2, P3, Q0, Q1, Q2, Q3}
+Paso 8: {N0, N1, N2, N3, N4, P0, P1, P2, P3, Q0, Q1, Q2, Q3}
+Paso 9: {N0, N1, N2, N3, N4, P0, P1, P2, P3, P4, Q0, Q1, Q2, Q3, Q4}
+Paso 10: {N0, N1, N2, N3, N4, N5, P0, P1, P2, P3, P4, Q0, Q1, Q2, Q3, Q4}
+Paso 11: {N0, N1, N2, N3, N4, N5, P0, P1, P2, P3, P4, P5, Q0, Q1, Q2, Q3, Q4, Q5}
+Paso 12: {N0, N1, N2, N3, N4, N5, N6, P0, P1, P2, P3, P4, P5, Q0, Q1, Q2, Q3, Q4, Q5}
+Paso 13: {N0, N1, N2, N3, N4, N5, N6, P0, P1, P2, P3, P4, P5, P6, Q0, Q1, Q2, Q3, Q4, Q5, Q6}
+Paso 14: {N0, N1, N2, N3, N4, N5, N6, N7, P0, P1, P2, P3, P4, P5, P6, Q0, Q1, Q2, Q3, Q4, Q5, Q6}
+Paso 15: {N0, N1, N2, N3, N4, N5, N6, N7, P0, P1, P2, P3, P4, P5, P6, P7, Q0, Q1, Q2, Q3, Q4, Q5, Q6, Q7}
+Paso 16: {N0, N1, N2, N3, N4, N5, N6, N7, N8, P0, P1, P2, P3, P4, P5, P6, P7, Q0, Q1, Q2, Q3, Q4, Q5, Q6, Q7}
+Paso 17: {N0, N1, N2, N3, N4, N5, N6, N7, N8, P0, P1, P2, P3, P4, P5, P6, P7, P8, Q0, Q1, Q2, Q3, Q4, Q5, Q6, Q7, Q8}
+Paso 18: {N0, N1, N2, N3, N4, N5, N6, N7, N8, N9, P0, P1, P2, P3, P4, P5, P6, P7, P8, Q0, Q1, Q2, Q3, Q4, Q5, Q6, Q7, Q8}
+Paso 19: {N0, N1, N2, N3, N4, N5, N6, N7, N8, N9, P0, P1, P2, P3, P4, P5, P6, P7, P8, P9, Q0, Q1, Q2, Q3, Q4, Q5, Q6, Q7, Q8, Q9}
+Paso 20: {N0, N1, N10, N2, N3, N4, N5, N6, N7, N8, N9, P0, P1, P2, P3, P4, P5, P6, P7, P8, P9, Q0, Q1, Q2, Q3, Q4, Q5, Q6, Q7, Q8, Q9}
+Estados distintos: 21
+Se estabiliza en el paso 20 (el paso 21 repite el paso 20)
+El destino N10 es alcanzable
+

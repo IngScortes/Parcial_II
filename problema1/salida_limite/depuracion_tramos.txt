@@ -1,0 +1,3 @@
+# Tramos descartados: línea | contenido | motivo
+Línea 8 | A,A,2,1 | bucle: el tramo sale y llega al mismo centro (A)
+Línea 9 | A,B,9,7 | repetido: ya existe A→B (primera aparición en la línea 2)

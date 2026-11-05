@@ -1,0 +1,3 @@
+# Errores en tramos.csv: línea | contenido | motivo
+Línea 10 | basura | se esperaban 4 campos (origen,destino,minutos,costo) y se encontraron 1
+Línea 11 | A,B,x,1 | minutos debe ser un entero positivo y se recibió 'x'

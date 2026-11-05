@@ -1,0 +1,4 @@
+# símbolos y nombres con caracteres especiales de XML
+& & . <
+& . . <
+. . < <

@@ -1,0 +1,4 @@
+# D no tiene tramos de salida; A,A es el itinerario trivial
+D,A
+A,A
+D,D

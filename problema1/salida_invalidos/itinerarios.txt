@@ -1,0 +1,16 @@
+=== A → C ===
+ERROR: el centro 'C' no existe en la red
+
+=== A → Z ===
+ERROR: el centro 'Z' no existe en la red
+
+=== consulta inválida ===
+ERROR: línea 3: consulta mal formada 'solo_uno' (se esperaba origen,destino)
+
+=== A → A ===
+Itinerario 1: A | tramos: 0 | 0 min | costo: 0
+Total: 1 itinerario
+Menos tramos: 1
+Menor tiempo: 1
+Menor costo: 1
+

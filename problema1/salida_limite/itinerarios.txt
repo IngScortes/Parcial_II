@@ -1,0 +1,17 @@
+=== D → A ===
+sin itinerarios
+
+=== A → A ===
+Itinerario 1: A | tramos: 0 | 0 min | costo: 0
+Total: 1 itinerario
+Menos tramos: 1
+Menor tiempo: 1
+Menor costo: 1
+
+=== D → D ===
+Itinerario 1: D | tramos: 0 | 0 min | costo: 0
+Total: 1 itinerario
+Menos tramos: 1
+Menor tiempo: 1
+Menor costo: 1
+

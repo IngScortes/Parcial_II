@@ -1,0 +1,7 @@
+=== A → A ===
+Paso 0: {A}
+Paso 1: {A, B}
+Estados distintos: 2
+Se estabiliza en el paso 1 (el paso 2 repite el paso 1)
+El destino A es alcanzable
+

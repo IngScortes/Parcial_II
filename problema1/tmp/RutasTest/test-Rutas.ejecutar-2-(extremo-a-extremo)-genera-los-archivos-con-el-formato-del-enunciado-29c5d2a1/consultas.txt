@@ -1,0 +1,6 @@
+A,D
+B,A
+Z,A
+mala
+
+# nada

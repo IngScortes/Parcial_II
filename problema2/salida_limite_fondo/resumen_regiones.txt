@@ -1,0 +1,2 @@
+Número de regiones: 0
+El mapa solo contiene fondo.

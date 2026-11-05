@@ -1,0 +1,3 @@
+Número de regiones: 605
+Mayor área (19): región 185 (B)
+Mayor perímetro (40): región 185 (B)

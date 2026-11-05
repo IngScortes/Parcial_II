@@ -1,0 +1,7 @@
+paleta.csv línea 1: el color 'azul' no tiene la forma #RRGGBB
+paleta.csv línea 2: símbolo 'A' repetido (ya declarado en la línea 1)
+paleta.csv línea 3: se esperaban 3 campos (simbolo,nombre,color_hex) y se encontraron 2
+paleta.csv: no se define el símbolo '.' (fondo)
+mapa.txt línea 2: tiene 2 columnas y se esperaban 3
+mapa.txt línea 1 (fila 0, columna 2): el símbolo 'Q' no está definido en la paleta
+mapa.txt línea 2 (fila 1, columna 1): el símbolo '.' no está definido en la paleta

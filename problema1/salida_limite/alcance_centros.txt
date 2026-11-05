@@ -1,0 +1,20 @@
+=== D → A ===
+Paso 0: {D}
+Estados distintos: 1
+Se estabiliza en el paso 0 (el paso 1 repite el paso 0)
+El destino A no es alcanzable: sin itinerarios (no se hizo búsqueda exhaustiva)
+
+=== A → A ===
+Paso 0: {A}
+Paso 1: {A, B, C}
+Paso 2: {A, B, C, D}
+Estados distintos: 3
+Se estabiliza en el paso 2 (el paso 3 repite el paso 2)
+El destino A es alcanzable
+
+=== D → D ===
+Paso 0: {D}
+Estados distintos: 1
+Se estabiliza en el paso 0 (el paso 1 repite el paso 0)
+El destino D es alcanzable
+
